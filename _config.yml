@@ -1,0 +1,28 @@
+name: NicholasHaines
+favicon: null
+layout_spectrum: 0.1822206552606076
+typography_spectrum: 0.2498146165162325
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.18814475508406758
+  lightness: 0.0374634419567883
+  saturation: 0.3559198225848377
+  rhythmicContrast: 0.1176852413918823
+purpose: []
